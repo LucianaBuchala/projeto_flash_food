@@ -198,7 +198,7 @@ st.sidebar.download_button(
 )
 
 st.sidebar.markdown("""----""")
-st.sidebar.markdown('##### Painel elaborado por Luciana para o curso Formação Profissional em Ciência de Dados da Comunidade DS')
+st.sidebar.markdown('##### Criado por Luciana para o curso Formação Profissional em Ciência de Dados da Comunidade DS')
 
 
 
