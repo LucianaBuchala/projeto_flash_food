@@ -194,7 +194,7 @@ culinarias_selecionadas = st.sidebar.multiselect('Escolha os tipos de culinária
 
 
 st.sidebar.markdown("""----""")
-st.sidebar.markdown('##### Feito por Luciana para o curso Comunidade DS')
+st.sidebar.markdown('##### Criado por Luciana para o curso Formação Profissional em Ciência de Dados da Comunidade DS')
 
 
 #========================
