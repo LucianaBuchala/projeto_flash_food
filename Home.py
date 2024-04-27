@@ -156,7 +156,7 @@ def limpar_dados ( df2 ):
 # Extração
 #========================
 # importacao do dataset
-df = pd.read_csv('dataset\zomato.csv')
+df = pd.read_csv('dataset/zomato.csv')
 
 # fazendo cópia do DataFrame original
 df2 = df.copy()
