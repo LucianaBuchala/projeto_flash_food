@@ -17,4 +17,4 @@ O dashboard estratégico foi desenvolvido utilizando métricas que refletem 3 vi
 ### 4. Resultado final
 Esse repositório contém os arquivos e scripts utilizados para construção do dashboard estratégico da empresa Flash Food.
 
-O dashboard pode ser acessado através do seguinte link: https://projeto-flash-food.streamlit.app/
+O dashboard pode ser acessado [aqui](https://projeto-flash-food.streamlit.app/)
